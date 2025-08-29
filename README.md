@@ -1,4 +1,4 @@
-Rock Paper Scissors | Juego en JavaScript
+## Rock Paper Scissors | Juego en JavaScript
 
 
 ---
